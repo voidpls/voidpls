@@ -1,4 +1,4 @@
-![Metrics](https://github.com/voidpls/voidpls/blob/main/github-metrics.svg)
+<!--![Metrics](https://github.com/voidpls/voidpls/blob/main/github-metrics.svg) -->
 
 <!--
 **voidpls/voidpls** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
